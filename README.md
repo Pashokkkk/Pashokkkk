@@ -10,7 +10,7 @@ Junior Software Developer passionate about Web Development, Machine Learning, an
 - 🧠 Intelligent student performance analyzer.
 - Predicts final grade & risk of failure.
 - Technologies: Python, Scikit-learn, SQLite, Pandas, Matplotlib.
-- [Live Demo (GitHub Pages)](https://pashokkkk.github.io/student-analyzer/) *(якщо є)*
+- [Live Demo (GitHub Pages)](https://pashokkkk.github.io/student-analyzer/) 
 
 ---
 
