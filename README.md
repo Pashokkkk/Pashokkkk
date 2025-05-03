@@ -38,6 +38,6 @@ Junior Software Developer passionate about Web Development, Machine Learning, an
 
 - **GitHub**: [Pashokkkk](https://github.com/Pashokkkk)
 - **LinkedIn**: [Pavlo Khomliuk](https://www.linkedin.com/in/pavlo-khomliuk-234799251/)
-- **Email**: homlukpavlo@example.com 
+- **Email**: homlukpavlo@gmail.com 
 
 ---
