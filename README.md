@@ -20,6 +20,13 @@ Junior Software Developer passionate about Web Development, Machine Learning, an
 
 ---
 
+### [Library Database Management System](https://github.com/Pashokkkk/library-database)
+- 📚 Windows Forms application for managing a library database.
+- Technologies: C#, SQL Server, ADO.NET.
+- Features: Add, Edit, Delete, Search books.
+
+---
+
 ### [Other Projects Coming Soon... 🚧]
 
 ---
