@@ -6,6 +6,13 @@ Junior Software Developer passionate about Web Development, Machine Learning, an
 
 ## 🚀 Portfolio Projects
 
+### [Customer Conversion Predictor](https://github.com/Pashokkkk/customer_conversion_predictor)
+- 🛒 Predicts if a customer will make a purchase based on behavior patterns.
+- Models: Logistic Regression, Random Forest (with hyperparameter tuning).
+- Technologies: Python, Scikit-learn, Pandas, Matplotlib, Seaborn, Jupyter.
+
+---
+
 ### [Smart Student Analyzer](https://github.com/Pashokkkk/student_analyzer)
 - 🧠 Intelligent student performance analyzer.
 - Predicts final grade & risk of failure.
