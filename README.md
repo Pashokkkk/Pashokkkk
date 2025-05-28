@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Pavlo Khomliuk
 
-Junior Software Developer passionate about Web Development, Machine Learning, and Data Analysis.
+Junior Software Developer with a strong passion for Web Development, Machine Learning, and Data Analysis, dedicated to building efficient, scalable, and user-focused applications.
 
 ---
 
